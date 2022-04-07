@@ -1,12 +1,26 @@
 body {
-  background-color: lightblue;
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 14px;
 }
+
 
 h1 {
   color: navy;
   margin-left: 20px;
 }
 
+/* Applies to all <h1>...</h1> elements. */
 h1 {
-  color: orange;   
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
 }
+
+/* Applies to all elements with <... class="someclass"> specified. */
+.someclass { color: red; }
+
+/* Applies to the element with <... id="someid"> specified. */
+#someid { color: green; }
+
