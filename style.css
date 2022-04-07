@@ -28,3 +28,8 @@ h1 {
 table{
 width:100px;
 }
+
+tr,td{
+
+margin-top:10px;
+}
