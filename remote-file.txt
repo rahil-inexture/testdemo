@@ -7,3 +7,4 @@ See the Windows Credentials Manager shortcut and double-click it to open the app
 Once the application is open, click on the Windows Credentials tab.
 Locate the credentials that you want to remove/update. They will start with "git:" and might begin with "ada:"
 Click on the credential entry. It will open a details view of the entry.
+Rahil
